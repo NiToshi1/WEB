@@ -1,0 +1,32 @@
+/* Seletor de elentos */
+body{
+    background-color: beige;
+}
+
+/* Seletor de id*/
+#Teste1{
+    border-style: double;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Seletor de classe */
+.bonitinho{
+    background-color: rgb(95, 114, 255, 0.5);
+}
+
+p{
+    color: navy;
+}
+
+li{
+    background-color: antiquewhite;
+
+    border-style: double;
+}
+
+li.active{
+    background-color: rgb(255, 255, 255) ;
+}
+.space{
+    padding: 3rem;
+}
