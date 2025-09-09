@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(119, 206, 233);
+}
+#nome{
+}
+
+.photo{ /* ver com o Fernando como deixar a foto parada na hora de ficar mexendo na lupa do navegador*/
+float: left;
+border-radius: 30%;
+position: absolute; 
+top: 0rem;
+left: 20rem;
+margin: 2rem;
+border:solid #77CEE9;
+}
+
+.tilt{
+font-size: 10;
+background-color:#1E556D;
+color: white;
+text-align: center;
+border-style: double;
+}
+
+footer img{ /*Perguntar pro fernando por que não funciona*/
+    height: 50px;
+    width: 50px;
+}
+.icon{
+    text-decoration: none;
+}
+footer ul{
+    display: flex;
+    gap: 2rem;
+}
