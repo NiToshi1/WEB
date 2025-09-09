@@ -22,14 +22,12 @@ text-align: center;
 border-style: double;
 }
 
-footer img{ /*Perguntar pro fernando por que não funciona*/
+.icon{ /*Perguntar pro fernando por que não funciona*/
     height: 50px;
     width: 50px;
 }
 .icon{
     text-decoration: none;
 }
-footer ul{
-    display: flex;
-    gap: 2rem;
-}
+
+
