@@ -1,0 +1,122 @@
+v<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo Nicolas Toshio Mitsugi</title>
+    <link rel="Stylesheet" href="Style.css">
+
+</head>
+
+<body>
+    <div class="tilt">
+        <h1> Currículo Nicolas Toshio Mitsugi </h1>
+
+        <h3>------------------------------------------------------------------</h3> <!-- usar <hr> ou border-bottom: 3px solid white; -->
+        <h3>Programador Júnior</h3>
+        <img class="photo" src="cat.jpeg" ref="Foto do currículo"> <!-- trocar 'ref' por 'alt' -->
+    </div>
+    <div class="menu">
+        <nav>
+            <ul> <!--Lista de itens-->
+                <li><a href="#Sessão1">Experiêcia profissional</a></li><!--Um item-->
+                <li><a href="#Sessão2">Objetivos</a></li>
+                <li><a href="#Sessão3">Formação acadêmica</a></li>
+                <li><a href="#Sessão4">Informações pessoais</a></li>
+            </ul>
+        </nav>
+    </div>
+    </div>
+
+    <h2>Contando um pouco mais sobre mim...</h2> <!-- Precisa estar dentro de <section> -->
+    <p>Sou o Nicolas, tenho 20 anos, já tenho uma experiência trabalhanda a quase 3 anos, e pretendo seguir na aréa de
+        programação, pretendo mais do que tudo crescer com a empresa e poder fazer parte de algo maior!</p>
+
+    <div class="conteudo">
+        <section id="Sessão1">
+            <h2>Formação acadêmica</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto praesentium quidem explicabo, sapiente
+                optio rerum quibusdam itaque recusandae mollitia consequatur qui similique minima unde. Id beatae sequi
+                consequatur adipisci quae.
+                Natus repudiandae deserunt explicabo, veritatis nulla quas eaque aliquid corporis ad molestiae quia
+                corrupti neque, pariatur quae minus rerum exercitationem sint, eum reiciendis nobis hic blanditiis
+                nesciunt illo! Illum, nemo!
+                Quos, ipsa cum ea ipsum magnam, doloremque reiciendis culpa animi rerum, obcaecati expedita omnis
+                deleniti officia maiores quae consequuntur cupiditate officiis doloribus! Esse nam quis, natus
+                laudantium similique repellat alias!
+                Minima, quidem maxime nisi ex illo illum expedita voluptatum itaque repellendus atque consectetur minus
+                architecto voluptas iste perferendis ea, facilis voluptates nesciunt non, inventore culpa vitae
+                voluptatem aspernatur deserunt! Perferendis. ipsum dolor sit amet, consectetur adipisicing elit. Quis
+                quibusdam numquam ipsam, hic nam exercitationem explicabo ratione, enim minus dicta, officia corrupti
+                aliquam dolorem? Soluta eveniet aliquid iusto architecto maxime?</p> <!-- Adicionar informações -->
+
+            <div class="conteudo">
+                <section id="Sessão2">
+                    <h2>Objetivo profissional</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto praesentium quidem explicabo,
+                        sapiente optio rerum quibusdam itaque recusandae mollitia consequatur qui similique minima unde.
+                        Id beatae sequi consequatur adipisci quae.
+                        Natus repudiandae deserunt explicabo, veritatis nulla quas eaque aliquid corporis ad molestiae
+                        quia corrupti neque, pariatur quae minus rerum exercitationem sint, eum reiciendis nobis hic
+                        blanditiis nesciunt illo! Illum, nemo!
+                        Quos, ipsa cum ea ipsum magnam, doloremque reiciendis culpa animi rerum, obcaecati expedita
+                        omnis deleniti officia maiores quae consequuntur cupiditate officiis doloribus! Esse nam quis,
+                        natus laudantium similique repellat alias!
+                        Minima, quidem maxime nisi ex illo illum expedita voluptatum itaque repellendus atque
+                        consectetur minus architecto voluptas iste perferendis ea, facilis voluptates nesciunt non,
+                        inventore culpa vitae voluptatem aspernatur deserunt! Perferendis. ipsum dolor sit amet,
+                        consectetur adipisicing elit. Quis quibusdam numquam ipsam, hic nam exercitationem explicabo
+                        ratione, enim minus dicta, officia corrupti aliquam dolorem? Soluta eveniet aliquid iusto
+                        architecto maxime?</p> <!-- Adicionar informações -->
+
+                    <section id="Sessão3">
+                        <h2>Experiência profissional</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore illo vitae ullam eius quia,
+                            molestias explicabo provident, velit reiciendis excepturi quibusdam et, repudiandae nihil
+                            esse ab soluta accusamus aperiam fugit.
+                            Placeat facere, ducimus recusandae nihil fugiat corrupti obcaecati quod rerum dignissimos
+                            soluta repudiandae fugit reiciendis vero dolorum, non voluptatum eaque nulla illo delectus
+                            omnis, temporibus aliquam iure! Possimus, ipsa recusandae.
+                            Vero quos asperiores molestiae aperiam aliquid rem nemo porro laudantium maiores, ipsa
+                            repellendus alias fugiat vel deleniti, quibusdam vitae sed voluptates voluptatem? Corrupti
+                            quis aliquam dignissimos amet magni repellat aut.
+                            Doloribus, magni. Aperiam, beatae? Temporibus dolore iusto vero reprehenderit suscipit animi
+                            consequuntur illo illum nam aliquam vitae perferendis praesentium culpa facilis nulla eum,
+                            possimus molestias omnis. Exercitationem nulla unde repellendus. ipsum, dolor sit amet
+                            consectetur adipisicing elit. Asperiores hic expedita odit sunt id est quis temporibus
+                            voluptas consequatur repudiandae sit minima quibusdam omnis ad obcaecati quae, ratione et
+                            fugiat.</p> <!-- Adicionar informações -->
+
+                        <section id="Sessão4">
+                            <h2>Infomações pessoais</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, distinctio itaque.
+                                Omnis nulla maiores ad! Recusandae sapiente possimus porro atque rerum laudantium quos
+                                molestiae aperiam, neque, deleniti quo id consequuntur.
+                                Molestias fugiat magni necessitatibus ab amet! In quae tenetur placeat vel explicabo
+                                dolorum reiciendis soluta sapiente illo! Repellendus, commodi. Nulla perferendis dicta
+                                hic quas sed. Esse, suscipit modi! Corrupti, dicta.
+                                Eveniet soluta hic delectus error aut. Sint, totam in? Culpa ut possimus, vitae et
+                                impedit amet vero sequi voluptatum cupiditate! Qui quos iure possimus autem aut aperiam
+                                ab nisi ipsa?
+                                Facere modi blanditiis qui labore voluptate porro non fugit odio accusantium
+                                reprehenderit veritatis inventore consectetur, beatae tempora dolor exercitationem!
+                                Sapiente amet culpa reprehenderit nemo assumenda facere nam vel aut vitae.</p>
+                        </section> <!-- Adicionar informações -->
+            </div>
+            <Footer>
+                <div class="icon">
+                    <ul> <!--Como tirar o ponto do li perguntar pro fernando--> <!-- list-style: none; -->
+                        <li><img src="githubicon.svg.png"></li>
+                        <a href="https://github.com/NiToshi1?tab=repositories">Github</a>
+                        <li><img src="linkedinicon.svg.png"></li>
+                        <a href="https://www.linkedin.com/in/nicolas-mitsugi-a15897251/">Linkedin</a>
+                        <li><img src="Instagram.svg.png"></li>
+                        <a href="https://www.instagram.com/ni_toshi/">Instagram</a>
+
+                    </ul>
+                </div>
+            </Footer>
+</body>
+
+</html>
