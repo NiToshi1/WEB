@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(155, 217, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#nome{
+}
+
+.photo{ 
+    float: left;
+    position: absolute; 
+    top: 0rem;
+    left: 20rem;
+    margin: 1rem;
+    border:solid #1A2E40;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.tilt{
+    font-size: 10;
+    background-color:#3E5C76;
+    color: white;
+    text-align: center;
+    border-style: double;
+    gap: 10px;
+}
+
+.icon{
+    text-decoration: none;
+    position: end;
+    height: 50px;
+    width: 50px;
+}
+footer ul{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+} 
+.conteudo{ 
+     font-size: 1.2rem;
+
+}
+.conta
